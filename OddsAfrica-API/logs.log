@@ -1,0 +1,505 @@
+2025-05-11 12:40:57,611 - INFO - Scraped Kategoria Superiore
+2025-05-11 12:40:57,852 - INFO - Scraped Girabola
+2025-05-11 12:40:58,036 - INFO - Scraped Trofeo de Campeones
+2025-05-11 12:40:58,281 - INFO - Scraped A-League, Women
+2025-05-11 12:40:58,493 - INFO - Scraped A-League
+2025-05-11 12:40:58,641 - INFO - Scraped Bundesliga
+2025-05-11 12:40:58,834 - INFO - Scraped OFB Cup
+2025-05-11 12:40:59,135 - INFO - Scraped 2. Liga
+2025-05-11 12:40:59,268 - INFO - Scraped Premier League
+2025-05-11 12:40:59,562 - INFO - Scraped Premier League
+2025-05-11 12:40:59,800 - INFO - Scraped Premier League
+2025-05-11 12:40:59,953 - INFO - Scraped Pro League
+2025-05-11 12:41:00,161 - INFO - Scraped Beker van Belgie
+2025-05-11 12:41:00,395 - INFO - Scraped Challenger Pro League
+2025-05-11 12:41:00,733 - INFO - Scraped Brasileiro Serie A
+2025-05-11 12:41:00,958 - INFO - Scraped Parva Liga
+2025-05-11 12:41:01,182 - INFO - Scraped Cambodian Premier League
+2025-05-11 12:41:01,462 - INFO - Scraped Elite One
+2025-05-11 12:41:01,673 - INFO - Scraped HNL
+2025-05-11 12:41:01,861 - INFO - Scraped 1st Division
+2025-05-11 12:41:02,018 - INFO - Scraped 1. Liga
+2025-05-11 12:41:02,391 - INFO - Scraped 2nd Division
+2025-05-11 12:41:02,595 - INFO - Scraped DBU Pokalen
+2025-05-11 12:41:02,798 - INFO - Scraped Superliga
+2025-05-11 12:41:03,017 - INFO - Scraped Kvindeligaen, Women
+2025-05-11 12:41:03,305 - INFO - Scraped 1. Division
+2025-05-11 12:41:03,471 - INFO - Scraped Premier League
+2025-05-11 12:41:03,675 - INFO - Scraped Primera Division, Apertura
+2025-05-11 12:41:03,864 - INFO - Scraped Primera Division, Reserves, Apertura
+2025-05-11 12:41:04,123 - INFO - Scraped EFL Cup
+2025-05-11 12:41:04,329 - INFO - Scraped FA Cup
+2025-05-11 12:41:04,529 - INFO - Scraped EFL Trophy
+2025-05-11 12:41:04,804 - INFO - Scraped Premier League
+2025-05-11 12:41:04,947 - INFO - Scraped Championship
+2025-05-11 12:41:05,231 - INFO - Scraped National League
+2025-05-11 12:41:05,451 - INFO - Scraped League One
+2025-05-11 12:41:05,700 - INFO - Scraped League Two
+2025-05-11 12:41:05,945 - INFO - Scraped National League North
+2025-05-11 12:41:06,186 - INFO - Scraped Northern Premier League Premier
+2025-05-11 12:41:06,427 - INFO - Scraped Southern League Premier Central
+2025-05-11 12:41:06,653 - INFO - Scraped Southern League Premier South
+2025-05-11 12:41:06,870 - INFO - Scraped National League South
+2025-05-11 12:41:07,105 - INFO - Scraped Isthmian League, Pr. Div
+2025-05-11 12:41:07,496 - INFO - Scraped Super League Women
+2025-05-11 12:41:07,707 - INFO - Scraped Ligue 1
+2025-05-11 12:41:07,956 - INFO - Scraped Coupe de France
+2025-05-11 12:41:08,412 - INFO - Scraped U19 National
+2025-05-11 12:41:08,636 - INFO - Scraped Trophee des Champions
+2025-05-11 12:41:08,864 - INFO - Scraped Ligue 2
+2025-05-11 12:41:09,100 - INFO - Scraped DFB Pokal
+2025-05-11 12:41:09,245 - INFO - Scraped Bundesliga
+2025-05-11 12:41:09,474 - INFO - Scraped 2. Bundesliga
+2025-05-11 12:41:09,761 - INFO - Scraped 3. Liga
+2025-05-11 12:41:10,020 - INFO - Scraped Premier League
+2025-05-11 12:41:10,187 - INFO - Scraped Super League
+2025-05-11 12:41:10,391 - INFO - Scraped Greece Cup
+2025-05-11 12:41:10,583 - INFO - Scraped Liga Nacional. Apertura
+2025-05-11 12:41:10,783 - INFO - Scraped Sapling Cup
+2025-05-11 12:41:11,013 - INFO - Scraped NB I
+2025-05-11 12:41:11,222 - INFO - Scraped Indian Super League
+2025-05-11 12:41:11,428 - INFO - Scraped I-League
+2025-05-11 12:41:11,631 - INFO - Scraped Africa Cup of Nations
+2025-05-11 12:41:11,808 - INFO - Scraped Could not get league name
+2025-05-11 12:41:12,050 - INFO - Scraped UEFA Euro
+2025-05-11 12:41:12,253 - INFO - Scraped Ballon dor
+2025-05-11 12:41:12,463 - INFO - Scraped UEFA EURO, Qualification
+2025-05-11 12:41:12,683 - INFO - Scraped Copa America
+2025-05-11 12:41:12,877 - INFO - Scraped World Cup Qualification, CONMEBOL
+2025-05-11 12:41:13,076 - INFO - Scraped World Cup
+2025-05-11 12:41:13,320 - INFO - Scraped Int. Friendly Games
+2025-05-11 12:41:13,539 - INFO - Scraped UEFA Europa League
+2025-05-11 12:41:13,795 - INFO - Scraped UEFA Conference League
+2025-05-11 12:41:14,065 - INFO - Scraped AFC Champions League Elite
+2025-05-11 12:41:14,312 - INFO - Scraped UEFA Champions League
+2025-05-11 12:41:14,585 - INFO - Scraped UEFA Champions League Women
+2025-05-11 12:41:15,029 - INFO - Scraped Club Friendly Games
+2025-05-11 12:41:15,224 - INFO - Scraped CAF Champions League
+2025-05-11 12:41:15,488 - INFO - Scraped Pro League
+2025-05-11 12:41:15,770 - INFO - Scraped Premier League
+2025-05-11 12:41:16,210 - INFO - Scraped Liga Alef
+2025-05-11 12:41:16,434 - INFO - Scraped State Cup
+2025-05-11 12:41:16,718 - INFO - Scraped Coppa Italia
+2025-05-11 12:41:17,045 - INFO - Scraped Serie B
+2025-05-11 12:41:17,328 - INFO - Scraped Serie C, Group C
+2025-05-11 12:41:17,538 - INFO - Scraped Serie C, Group B
+2025-05-11 12:41:17,761 - INFO - Scraped Primavera 2
+2025-05-11 12:41:17,883 - INFO - Scraped Serie A
+2025-05-11 12:41:18,101 - INFO - Scraped Supercoppa
+2025-05-11 12:41:18,298 - INFO - Scraped Primavera 1
+2025-05-11 12:41:18,559 - INFO - Scraped Serie C, Group A
+2025-05-11 12:41:18,799 - INFO - Scraped Coppa Italia Serie D
+2025-05-11 12:41:19,013 - INFO - Scraped WE League, Women
+2025-05-11 12:41:19,307 - INFO - Scraped Ligue 1
+2025-05-11 12:41:19,537 - INFO - Scraped Liga MX, Clausura
+2025-05-11 12:41:19,757 - INFO - Scraped Botola Pro D1
+2025-05-11 12:41:19,954 - INFO - Scraped Eredivisie
+2025-05-11 12:41:20,230 - INFO - Scraped Eerste Divisie
+2025-05-11 12:41:20,493 - INFO - Scraped Primera Division
+2025-05-11 12:41:20,724 - INFO - Scraped Championship
+2025-05-11 12:41:20,955 - INFO - Scraped Premiership
+2025-05-11 12:41:21,248 - INFO - Scraped Ekstraklasa
+2025-05-11 12:41:21,422 - INFO - Scraped League Cup
+2025-05-11 12:41:21,688 - INFO - Scraped Liga Portugal 2
+2025-05-11 12:41:21,908 - INFO - Scraped U19 Campeonato Nacional
+2025-05-11 12:41:22,125 - INFO - Scraped Liga Portugal
+2025-05-11 12:41:22,346 - INFO - Scraped U23 Liga Revelacao
+2025-05-11 12:41:22,564 - INFO - Scraped 2. Division
+2025-05-11 12:41:22,799 - INFO - Scraped Liga 2
+2025-05-11 12:41:23,077 - INFO - Scraped Premier League
+2025-05-11 12:41:23,298 - INFO - Scraped 1. Liga
+2025-05-11 12:41:23,406 - INFO - Scraped Saudi Pro League
+2025-05-11 12:41:23,631 - INFO - Scraped League 1
+2025-05-11 12:41:23,831 - INFO - Scraped Scottish Cup
+2025-05-11 12:41:24,066 - INFO - Scraped Premiership
+2025-05-11 12:41:24,441 - INFO - Scraped League 2
+2025-05-11 12:41:24,694 - INFO - Scraped Championship
+2025-05-11 12:41:25,302 - INFO - Scraped Ligue 1
+2025-05-11 12:41:25,557 - INFO - Scraped Superliga
+2025-05-11 12:41:25,786 - INFO - Scraped PrvaLiga
+2025-05-11 12:41:25,921 - INFO - Scraped Premiership
+2025-05-11 12:41:26,114 - INFO - Scraped Supercopa
+2025-05-11 12:41:26,319 - INFO - Scraped LaLiga
+2025-05-11 12:41:26,528 - INFO - Scraped Copa del Rey
+2025-05-11 12:41:26,755 - INFO - Scraped Tercera Federacion, Group 9
+2025-05-11 12:41:26,951 - INFO - Scraped Tercera Federacion, Group 11
+2025-05-11 12:41:27,223 - INFO - Scraped Tercera Federacion, Group 10
+2025-05-11 12:41:27,433 - INFO - Scraped Allsvenskan
+2025-05-11 12:41:27,643 - INFO - Scraped Super League
+2025-05-11 12:41:27,852 - INFO - Scraped Premier League
+2025-05-11 12:41:28,077 - INFO - Scraped Premier League
+2025-05-11 12:41:28,293 - INFO - Scraped Thai League 2
+2025-05-11 12:41:28,526 - INFO - Scraped Thai League 1
+2025-05-11 12:41:28,676 - INFO - Scraped Super Lig
+2025-05-11 12:41:28,895 - INFO - Scraped 1. Lig
+2025-05-11 12:41:29,077 - INFO - Scraped Super Kupa
+2025-05-11 12:41:29,320 - INFO - Scraped 2. Lig
+2025-05-11 12:41:29,548 - INFO - Scraped Premier League
+2025-05-11 12:41:29,759 - INFO - Scraped Arabian Gulf League
+2025-05-11 12:41:29,953 - INFO - Scraped First Division
+2025-05-11 12:41:30,176 - INFO - Scraped V-League 1
+2025-05-11 12:41:30,383 - INFO - Scraped V-League 2
+2025-05-11 12:41:30,577 - INFO - Scraped Cymru Premier
+2025-05-11 12:41:30,948 - INFO - Scraped Cymru Championship South
+2025-05-11 12:41:31,163 - INFO - Scraped Super League
+2025-05-11 12:41:31,205 - INFO - Successfully saved games for sportybet football
+2025-05-11 12:41:31,205 - INFO - Successfully Scraped and Saved sportybet football
+2025-05-11 12:41:31,339 - INFO - Scraped WNBL
+2025-05-11 12:41:31,485 - INFO - Scraped NBL
+2025-05-11 12:41:31,628 - INFO - Scraped Superliga
+2025-05-11 12:41:31,766 - INFO - Scraped Premier League
+2025-05-11 12:41:31,897 - INFO - Scraped 1st Division
+2025-05-11 12:41:32,080 - INFO - Scraped NBB
+2025-05-11 12:41:32,245 - INFO - Scraped NBL
+2025-05-11 12:41:32,377 - INFO - Scraped CBA
+2025-05-11 12:41:32,550 - INFO - Scraped WCBA
+2025-05-11 12:41:32,743 - INFO - Scraped Croatian Cup
+2025-05-11 12:41:32,871 - INFO - Scraped BBL
+2025-05-11 12:41:33,051 - INFO - Scraped Pro A
+2025-05-11 12:41:33,248 - INFO - Scraped Nationale 1
+2025-05-11 12:41:33,409 - INFO - Scraped Pro B
+2025-05-11 12:41:33,578 - INFO - Scraped Pro A
+2025-05-11 12:41:33,769 - INFO - Scraped 1. DBBL
+2025-05-11 12:41:34,034 - INFO - Scraped BBL
+2025-05-11 12:41:34,170 - INFO - Scraped Elite League
+2025-05-11 12:41:34,331 - INFO - Scraped Basketball League
+2025-05-11 12:41:34,502 - INFO - Scraped United League
+2025-05-11 12:41:34,657 - INFO - Scraped Estonian-Latvian League
+2025-05-11 12:41:34,811 - INFO - Scraped Liga ABA
+2025-05-11 12:41:34,951 - INFO - Scraped Champions League
+2025-05-11 12:41:35,114 - INFO - Scraped Eurocup
+2025-05-11 12:41:35,299 - INFO - Scraped Super League
+2025-05-11 12:41:35,505 - INFO - Scraped Serie B
+2025-05-11 12:41:35,784 - INFO - Scraped Serie A
+2025-05-11 12:41:35,969 - INFO - Scraped Serie A2
+2025-05-11 12:41:36,097 - INFO - Scraped A1 Women
+2025-05-11 12:41:36,262 - INFO - Scraped A2, Women
+2025-05-11 12:41:36,399 - INFO - Scraped B2 League
+2025-05-11 12:41:36,627 - INFO - Scraped B1 League
+2025-05-11 12:41:36,764 - INFO - Scraped W League Premier
+2025-05-11 12:41:36,941 - INFO - Scraped First Division
+2025-05-11 12:41:37,114 - INFO - Scraped NKL
+2025-05-11 12:41:37,277 - INFO - Scraped LKL
+2025-05-11 12:41:37,432 - INFO - Scraped BNXT Dutch League
+2025-05-11 12:41:37,672 - INFO - Scraped Prva Liga
+2025-05-11 12:41:37,820 - INFO - Scraped PBA, Commissioner Cup
+2025-05-11 12:41:37,956 - INFO - Scraped Basket Liga, Women
+2025-05-11 12:41:38,113 - INFO - Scraped 1. Liga
+2025-05-11 12:41:38,268 - INFO - Scraped PLK
+2025-05-11 12:41:38,419 - INFO - Scraped LPB
+2025-05-11 12:41:38,663 - INFO - Scraped QBL
+2025-05-11 12:41:38,867 - INFO - Scraped KBL
+2025-05-11 12:41:39,011 - INFO - Scraped WKBL
+2025-05-11 12:41:39,145 - INFO - Scraped Liga Nationala
+2025-05-11 12:41:39,281 - INFO - Scraped SBL
+2025-05-11 12:41:39,512 - INFO - Scraped KLS
+2025-05-11 12:41:39,679 - INFO - Scraped Extraliga
+2025-05-11 12:41:39,835 - INFO - Scraped 1. A SKL
+2025-05-11 12:41:39,978 - INFO - Scraped Liga Femenina
+2025-05-11 12:41:40,166 - INFO - Scraped Liga ACB
+2025-05-11 12:41:40,319 - INFO - Scraped Super Lig, Women
+2025-05-11 12:41:40,494 - INFO - Scraped TB2L
+2025-05-11 12:41:40,647 - INFO - Scraped Super Lig
+2025-05-11 12:41:40,799 - INFO - Scraped TBL
+2025-05-11 12:41:41,278 - INFO - Scraped NCAA, Regular Season
+2025-05-11 12:41:41,404 - INFO - Scraped WNBA
+2025-05-11 12:41:41,624 - INFO - Scraped NBA
+2025-05-11 12:41:42,088 - INFO - Scraped NCAA Women, Regular Season
+2025-05-11 12:41:42,108 - INFO - Successfully saved games for sportybet basketball
+2025-05-11 12:41:42,108 - INFO - Successfully Scraped and Saved sportybet basketball
+2025-05-11 12:41:47,045 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=88637&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:41:47,045 - ERROR - Error getting games for England, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=88637&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:41:51,978 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=108319&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:41:51,978 - ERROR - Error getting games for England, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=108319&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:41:56,805 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=119237&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:41:56,805 - ERROR - Error getting games for England, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=119237&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:42:01,660 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=105759&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:42:01,661 - ERROR - Error getting games for England, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=105759&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:42:06,490 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=13709&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:42:06,490 - ERROR - Error getting games for England, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=13709&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:42:11,283 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=24637&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:42:11,283 - ERROR - Error getting games for England, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=24637&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:42:16,089 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=119235&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:42:16,089 - ERROR - Error getting games for Germany, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=119235&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:42:20,872 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=96463&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:42:20,872 - ERROR - Error getting games for Germany, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=96463&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:42:25,732 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=109313&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:42:25,732 - ERROR - Error getting games for Germany, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=109313&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:42:30,529 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=2579233&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:42:30,529 - ERROR - Error getting games for Germany, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=2579233&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:42:35,355 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=110163&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:42:35,355 - ERROR - Error getting games for Italy, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=110163&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:42:40,223 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=7067&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:42:40,223 - ERROR - Error getting games for Italy, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=7067&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:42:45,047 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=127759&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:42:45,048 - ERROR - Error getting games for Italy, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=127759&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:42:49,880 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=127733&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:42:49,880 - ERROR - Error getting games for Spain, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=127733&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:42:54,678 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=119243&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:42:54,678 - ERROR - Error getting games for Spain, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=119243&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:42:59,463 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=27687&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:42:59,463 - ERROR - Error getting games for Spain, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=27687&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:43:04,260 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=124885&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:43:04,261 - ERROR - Error getting games for Spain, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=124885&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:43:09,111 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=12821,124885&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:43:09,112 - ERROR - Error getting games for France, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=12821,124885&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:43:13,891 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=119241&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:43:13,891 - ERROR - Error getting games for France, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=119241&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:43:18,716 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=12829&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:43:18,716 - ERROR - Error getting games for France, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=12829&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:43:23,522 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=118587&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:43:23,522 - ERROR - Error getting games for UCL, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=118587&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:43:28,288 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=118593&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:43:28,288 - ERROR - Error getting games for Europa, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=118593&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:43:33,051 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=44787&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:43:33,052 - ERROR - Error getting games for Australia, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=44787&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:43:37,851 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=104509&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:43:37,851 - ERROR - Error getting games for Australia, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=104509&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:43:42,674 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=102647&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:43:42,675 - ERROR - Error getting games for Japan, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=102647&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:43:47,461 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=13521&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:43:47,461 - ERROR - Error getting games for Scotland, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=13521&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:43:52,241 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=281713&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:43:52,242 - ERROR - Error getting games for Scotland, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=281713&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:43:57,034 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=281719&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:43:57,034 - ERROR - Error getting games for Scotland, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=281719&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:44:01,827 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=281717&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:44:01,827 - ERROR - Error getting games for Scotland, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=281717&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:44:06,640 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=16819&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:44:06,640 - ERROR - Error getting games for Saudi_arabia, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=16819&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:44:11,478 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=245547&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:44:11,478 - ERROR - Error getting games for Saudi_arabia, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=245547&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:44:16,288 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=27735&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:44:16,288 - ERROR - Error getting games for Croatia, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=27735&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:44:21,075 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=109483&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:44:21,075 - ERROR - Error getting games for Croatia, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=109483&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:44:25,876 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=12505&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:44:25,876 - ERROR - Error getting games for Croatia, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=12505&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:44:30,663 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=41199&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:44:30,664 - ERROR - Error getting games for Israel, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=41199&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:44:35,476 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=828065&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:44:35,476 - ERROR - Error getting games for Usa, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=828065&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-05-11 12:44:40,270 - ERROR - Error making request: HTTPSConnectionPool(host='ng.1x001.com', port=443): Max retries exceeded with url: /service-api/LineFeed/Get1x2_VZip?sports=1&champs=90613&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))
+2025-05-11 12:44:40,270 - ERROR - Error getting games for Denmark, URL: https://ng.1x001.com/service-api/LineFeed/Get1x2_VZip?sports=1&champs=90613&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true, Error: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 59, in Get_games
+    games_id = xbet.get_games_id(league_games)
+  File "/project/sandbox/user-workspace/OddsAfrica-API/engine/bookie_models/xbet_model.py", line 81, in get_games_id
+    for a_dict in league_games.get("Value", {}):
+AttributeError: 'NoneType' object has no attribute 'get'
